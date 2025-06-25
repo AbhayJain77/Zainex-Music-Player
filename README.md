@@ -27,6 +27,8 @@ and many more...
 
 ## Screenshots
 ![App Screenshot](web_page.png)
+playlists' songs display:
+![App Screenshot](ss2.png)
 
 
 ## 🔧 Setup & Usage
